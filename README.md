@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Artyom Evdokimov</h1>
 <h2 align="center">
-  🔬🔭 A curious soul, forever captivated by the intricate dance of how things come to be.
-  <br>
-  🦧 I’m currently learning everything about this expanding universe of Data Science, more specifically about LLMs.
-  <br>
-  ⚡ Fun fact: your left and right arms might each hold atoms from different stars, a cosmic tapestry woven from the remnants of ancient supernovae, each star's essence scattered across the universe, only to find its way into the very fabric of you.
+⚡ Fun fact: your left and right arms might each hold atoms from different stars, a cosmic tapestry woven from the remnants of ancient supernovae, each star's essence scattered across the universe, only to find its way into the very fabric of you.
 </h2>
 
 <h3 align="left">Tools I know something about:</h3>
